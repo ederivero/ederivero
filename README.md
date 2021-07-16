@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="https://raw.githubusercontent.com/ederivero/ederivero/master/mario_bross.gif" width=500  height= 200/>
+    <img align="center" alt="visitors" src="https://raw.githubusercontent.com/ederivero/ederivero/master/mario_bross.gif" width=2500  height= 400/>
 </p>
 
 <p>
